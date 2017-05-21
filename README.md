@@ -47,3 +47,6 @@ Al-Tariq Al-Aala Al-Ghashiyah Al-Fajr Al-Balad Al-hShams Al-Lail
 Al-Duha Al-hSharh Al-Tin Al-Alaq Al-Qadr Al-Bayyinah Al-Zalzalah 
 Al-Aadiyat Al-Qariah Al-Takathur Al-Asr Al-Humazah Al-Fil Quraish
 Al-Maun Al-Kauthar Al-Kafirun Al-Nasr Al-Masad Al-Ikhlas Al-Falaq Al-Nas
+
+
+# for feed back please contact me on http://www.moathnaji.com
