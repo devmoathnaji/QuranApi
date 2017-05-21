@@ -1,10 +1,10 @@
 # QuranApi
-Free Quran Api you can use it for research or with your software for free :)
+A free Quran Api that you can use for free in your research or in your software
 
 ### Note you can specfiy the return type in request ,
 ### api support [json , xml]
 # Examples : 
-## 1- Gel All Quran Suwar 
+## 1- Get All Quran Suwar 
     api.moathnaji.com/api/Qurans/
 
 ## 2- Get Sura By ID
