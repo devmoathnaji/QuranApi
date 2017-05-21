@@ -19,6 +19,8 @@ A free Quran Api that you can use for free in your research or in your software
     **will return the same result .** 
     
 you can find list of arabic , english names bellow , to use it with API 
+
+
 1- الفاتحة
 2- البقرة
 3- ال عمران
