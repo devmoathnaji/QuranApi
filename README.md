@@ -20,7 +20,8 @@ A free Quran Api that you can use for free in your research or in your software
     
 you can find list of arabic , english names bellow , to use it with API 
 
-
+https://github.com/devmoathnaji/QuranApi/blob/master/En.txt
+https://github.com/devmoathnaji/QuranApi/blob/master/Ar.txt
 
 
 # for feed back please contact me on http://www.moathnaji.com
