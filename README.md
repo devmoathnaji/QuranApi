@@ -1,8 +1,14 @@
 # QuranApi
-A free Quran Api that you can use for free in your research or in your software
+
+![Alt text](http://corpus.quran.com/images/quran2.jpeg "Quran")
+
+
+
+
 
 ### Note you can specfiy the return type in request ,
 ### api support [json , xml]
+
 # Examples : 
 ## 1- Get All Quran Suwar 
     api.moathnaji.com/api/Qurans/
