@@ -29,4 +29,8 @@
     > https://github.com/devmoathnaji/QuranApi/blob/master/Ar.txt
 
 
-# for feed back please contact me on http://www.moathnaji.com
+# for feed back please contact me on 
+
+### http://www.moathnaji.com
+### dev.moath.naji@gmail.com
+### https://www.facebook.com/profile.php?id=100009215824523
